@@ -1,0 +1,11 @@
+Frontend: React js
+Backend : Codeigniter 4
+
+Running fronted:
+1. npm install
+2. npm start
+
+Running Backend:
+1. Create database in mysql. Name database : article
+2. Import article.Sql
+3. php spark serve
